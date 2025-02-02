@@ -1,6 +1,6 @@
 # Guide to Distinguishing AI-Generated Text from Human Writing
 
-*Original at Jenna Russell, Marzena Karpinska, and Mohit Iyyer's [human_detectors]https://github.com/jenna-russell/human_detectors/). This is just reformatted.*
+*Original at Jenna Russell, Marzena Karpinska, and Mohit Iyyer's [human_detectors](https://github.com/jenna-russell/human_detectors/). This is just reformatted.*
 
 ## Vocabulary / Word Choice Patterns
 - Certain words crop up unusually frequently throughout AI-generated text compared to human writing
